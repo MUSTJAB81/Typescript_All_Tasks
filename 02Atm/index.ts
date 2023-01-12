@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import login from "./atm_modules/login.js";
 import figlet from 'figlet'
 import chalk from 'chalk'
